@@ -1,2 +1,2 @@
-# Implementacija-i-primjena-tehnologije-prepoznavanja-lica---kod
+# Implementacija_tehnologije_prepoznavanja_lica_kod
 Dio diplomskog rada
